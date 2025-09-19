@@ -30,7 +30,7 @@ The entire backend stack (Spring Application, PostgreSQL database, and Redis) is
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/tokengate.git](https://github.com/your-username/tokengate.git)
+    git clone https://github.com/bagwanmisbah/tokengate.git
     cd tokengate
     ```
 2.  **Start the application using Docker Compose:**
