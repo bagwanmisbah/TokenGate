@@ -1,4 +1,4 @@
-# 🚀 TokenGate - Dual API Rate Limiter
+#  TokenGate - Dual API Rate Limiter
 
 TokenGate is a secure and high-performance Spring Boot API that demonstrates a dual-algorithm rate limiting strategy using **Token Bucket** and **Fixed Window Counter** algorithms. It leverages **Redis** for efficient caching and distributed rate limiting, and is fully containerized with **Docker**.
 
@@ -7,7 +7,7 @@ TokenGate is a secure and high-performance Spring Boot API that demonstrates a d
 <img width="1090" height="616" alt="image" src="https://github.com/user-attachments/assets/caa7367e-10af-4393-a715-584955bb08f3" />
 
 
-## ✨ Features
+## Features
 
 - **JWT Authentication**: Secure endpoints using JSON Web Tokens.
 - **Redis Caching**: Reduces database latency by over 95%.
@@ -15,7 +15,7 @@ TokenGate is a secure and high-performance Spring Boot API that demonstrates a d
 - **Fully Containerized**: Includes `docker-compose` for the Spring Boot App, PostgreSQL, and Redis.
 - **Unit & Integration Tested**: High code coverage using JUnit and Mockito.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Java & Spring Boot
 - PostgreSQL
@@ -24,7 +24,7 @@ TokenGate is a secure and high-performance Spring Boot API that demonstrates a d
 - Maven
 - JUnit & Mockito
 
-## ▶️ How to Run
+##  How to Run
 
 The entire backend stack (Spring Application, PostgreSQL database, and Redis) is containerized.
 
